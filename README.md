@@ -1,3 +1,19 @@
+Project Description:Event Registration with Limited Capacity
+Definition: Create an event registration system where each event has a maximum capacity.
+Requirements:
+- Students register for an event until seats are full.
+- If an event is full, show a proper message.
+- Maintain a waiting list (optional).
+- Admin panel to view participants and waiting list.
+- Email confirmation after successful registration (optional).
+Expected Output: Students register until capacity is full, and admins manage registrations.
+
+Team Members:
+Devarsh Soni(D24DCS169)
+Tirth Vaja(D24DCS165)
+Nihal Modi(D24DCS179)
+
+
 Event Registration System 
 A complete full-stack event registration system with real-time capacity management, waitlisting, and comprehensive admin controls. Built with modern technologies for a seamless user experience.
 
