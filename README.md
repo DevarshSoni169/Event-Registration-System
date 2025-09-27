@@ -6,10 +6,10 @@ https://img.shields.io/badge/Node.js-Express-brightgreen
 https://img.shields.io/badge/MongoDB-Database-green
 https://img.shields.io/badge/License-MIT-yellow
 
-🌟 Live Demo
+ Live Demo
 [Add your live demo link here after deployment]
 
-📋 Table of Contents
+ Table of Contents
 Features
 
 Tech Stack
@@ -30,7 +30,7 @@ Contributing
 
 License
 
-✨ Features
+ Features
 🎯 Core Functionality
 Smart Registration System with automatic capacity management
 
@@ -163,7 +163,8 @@ Method	Endpoint	Description
 POST	/api/registrations	Register for an event
 GET	/api/registrations/event/:eventId	Get event registrations
 PUT	/api/registrations/:id/cancel	Cancel registration
-🏗️ Project Structure
+
+ Project Structure
 text
 event-registration-system/
 ├── frontend/                 # React application
@@ -191,7 +192,8 @@ event-registration-system/
 │   ├── server.js
 │   └── package.json
 └── README.md
-🎨 Key Components
+
+ Key Components
 EventList Component
 Displays all available events
 
@@ -315,10 +317,10 @@ Check the troubleshooting section
 
 Review the API documentation
 
-🌟 Show Your Support
+ Show Your Support
 If you find this project helpful, please give it a ⭐️ on GitHub!
 
-Built with ❤️ using React, Node.js, Express, and MongoDB
+Built with using React, Node.js, Express, and MongoDB
 
 📊 Project Stats
 https://img.shields.io/github/stars/yourusername/event-registration-system?style=social
